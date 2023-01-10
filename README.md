@@ -13,7 +13,7 @@ BSc. Computer Science, Grad. 2023 - Software developer and a Microsoft Learn stu
 3. Denis Wachira Kathuri - Kirinyaga University
 BSc. Computer Science, Grad. 2025 – Database Engineer, passionate about using Azure cloud computing solutions.
 
-4.Chality Jelimo - Kirinyaga University 
+4.Charity Jelimo - Kirinyaga University 
 BSc. Software Engineering, Grad. 2024 – Database Engineer, passionate about using Azure cloud computing solutions.
 
 ## The Concept 
