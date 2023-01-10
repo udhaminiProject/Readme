@@ -14,7 +14,7 @@ BSc. Computer Science, Grad. 2023 - Software developer and a Microsoft Learn stu
 BSc. Computer Science, Grad. 2025 – Database Engineer, passionate about using Azure cloud computing solutions.
 
 4.Charity Jelimo - Kirinyaga University 
-BSc. Software Engineering, Grad. 2024 – Database Engineer, passionate about using Azure cloud computing solutions.
+BSc. Software Engineering, Grad. 2024 – Frontend developer, passionate about using Azure cloud computing solutions.
 
 ## The Concept 
 Close to 1 million students will sit for the High school exams this year. Despite the high numbers, only a few join tertiary institutions of learning due to a shortage of funds to facilitate education, despite having fared well in the national exams. Some of them join the universities but drop out of school later due to lack of upkeep funds and school fees. This also leads to students differing from their studies, yet they are not aware of the available opportunities which can support their financial needs to access education.
