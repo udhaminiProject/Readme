@@ -62,7 +62,8 @@ The level of confidence is good generally, include some PowerPoint slides as wel
 Strong idea,
 
 ## How it works:
-![image](https://user-images.githubusercontent.com/57180726/211212595-2716b99c-a578-4ec4-b0a8-b13f4bd6b73c.png)
+<img width="1074" alt="Drawing" src="https://user-images.githubusercontent.com/57180726/215202501-5408c3a7-2a6f-4fcc-ade0-68fd70aa57c3.png">
+
 
 This web Application allows the user to register and create a portal. Using his/her portal, the user can access a collection of scholarships fetched from the Azure Cosmos DB via the API. Azure Cosmos Database gets populated with scholarships from the internet via a web scrapping engine. The web application, API and web scraping Engine are hosted By Azure via Azure app services while the database runs on Azure cosmos Database. We use GitHub CI/CD to continually add new features to the web app, API and web scraping engine.
 
